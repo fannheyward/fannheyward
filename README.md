@@ -1,3 +1,3 @@
-# Heyward Fann
+# Hi there 👋
 
-aka fannheyward.
+Heyward Fann, aka fannheyward, a developer based in Beijing, China.
